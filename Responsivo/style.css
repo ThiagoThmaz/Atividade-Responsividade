@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container{
+    display: flex;
+ 
+
+} */
+
+.box1{
+    background-color: tomato;
+    width: 550px;
+    height: 250px;
+    padding: 20px;
+}
+
+p{
+    /* font-size: 1.2em; */
+    font-size: 1.5rem;
+}
+
+.box2{
+    background-color: royalblue;
+    width: 550px;
+    height: 250px;
+}
